@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Commit for file2
+=======
+Commit for file 2
+>>>>>>> b8f9e3af858335c40d8e0022e7bfd3cb3f366b37
